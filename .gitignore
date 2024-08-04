@@ -102,3 +102,18 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Directories
+.vs/
+Binaries/
+Intermediates/
+bin/
+bin-int/
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+*.user
+*.ini
