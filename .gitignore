@@ -1,2 +1,4 @@
-**/*.vcxproj.filters
-**/*.vcxproj
+bin
+bin-int
+GLFW.vcxproj
+GLFW.vcxproj.filters
